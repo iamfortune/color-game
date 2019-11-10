@@ -1,2 +1,2 @@
 # color-game
-a color guessing game built with javascript 
+a color guessing game built with javascript, css for styles and standard markup 
